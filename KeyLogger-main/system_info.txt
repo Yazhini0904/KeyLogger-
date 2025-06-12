@@ -1,0 +1,6 @@
+Public IP Address: 115.99.14.128
+Processor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-D0N6TAJ
+Private IP Address: 10.11.108.114
